@@ -58,6 +58,8 @@ My current flagship project is a player-driven online space game and the systems
 
 Discover more at **[gildenkrieg.space](https://www.gildenkrieg.space)**.
 
+### Other Projects
+
 <p align="center">
   <a href="https://github.com/aderoian/Stratos">
     <img height="145" src="https://github-stats-extended.vercel.app/api/pin?username=aderoian&repo=aderoian/Stratos&theme=radical" alt="Stratos repository card" />
